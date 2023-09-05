@@ -5,8 +5,13 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:CSharpWPF_GUIBasic"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
-    <Grid>
-        
+        Title="MainWindow" Height="387" Width="800">
+    <Grid Background="#FF929292">
+        <Button Content="Submit" HorizontalAlignment="Center" Height="80" Margin="0,253,0,0" VerticalAlignment="Top" Width="372" Click="Button_Click" FontSize="36" FontFamily="Arial Black"/>
+        <TextBox HorizontalAlignment="Left" Margin="259,59,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="418" Height="46" TextChanged="TextBox_TextChanged_1" FontSize="36"/>
+        <TextBox HorizontalAlignment="Left" Margin="259,152,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="418" Height="46" TextChanged="TextBox_TextChanged" FontSize="36"/>
+        <TextBlock HorizontalAlignment="Left" Height="65" Margin="66,50,0,0" TextWrapping="Wrap" Text="First Name :" VerticalAlignment="Top" Width="249" FontSize="36" FontWeight="Bold" FontFamily="Dubai"/>
+        <TextBlock HorizontalAlignment="Left" Height="66" Margin="68,142,0,0" TextWrapping="Wrap" Text="Last Name :" VerticalAlignment="Top" Width="249" FontSize="36" FontWeight="Bold" FontFamily="Dubai"/>
+
     </Grid>
 </Window>
