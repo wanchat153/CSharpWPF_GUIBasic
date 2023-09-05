@@ -1,0 +1,15 @@
+C:\GITCSharp\CSharpWPF_GUIBasic\CSharpWPF_GUIBasic\bin\Debug\CSharpWPF_GUIBasic.exe.config
+C:\GITCSharp\CSharpWPF_GUIBasic\CSharpWPF_GUIBasic\bin\Debug\CSharpWPF_GUIBasic.exe
+C:\GITCSharp\CSharpWPF_GUIBasic\CSharpWPF_GUIBasic\bin\Debug\CSharpWPF_GUIBasic.pdb
+C:\GITCSharp\CSharpWPF_GUIBasic\CSharpWPF_GUIBasic\obj\Debug\CSharpWPF_GUIBasic.csproj.AssemblyReference.cache
+C:\GITCSharp\CSharpWPF_GUIBasic\CSharpWPF_GUIBasic\obj\Debug\MainWindow.g.cs
+C:\GITCSharp\CSharpWPF_GUIBasic\CSharpWPF_GUIBasic\obj\Debug\App.g.cs
+C:\GITCSharp\CSharpWPF_GUIBasic\CSharpWPF_GUIBasic\obj\Debug\CSharpWPF_GUIBasic_MarkupCompile.cache
+C:\GITCSharp\CSharpWPF_GUIBasic\CSharpWPF_GUIBasic\obj\Debug\CSharpWPF_GUIBasic_MarkupCompile.lref
+C:\GITCSharp\CSharpWPF_GUIBasic\CSharpWPF_GUIBasic\obj\Debug\MainWindow.baml
+C:\GITCSharp\CSharpWPF_GUIBasic\CSharpWPF_GUIBasic\obj\Debug\CSharpWPF_GUIBasic.g.resources
+C:\GITCSharp\CSharpWPF_GUIBasic\CSharpWPF_GUIBasic\obj\Debug\CSharpWPF_GUIBasic.Properties.Resources.resources
+C:\GITCSharp\CSharpWPF_GUIBasic\CSharpWPF_GUIBasic\obj\Debug\CSharpWPF_GUIBasic.csproj.GenerateResource.cache
+C:\GITCSharp\CSharpWPF_GUIBasic\CSharpWPF_GUIBasic\obj\Debug\CSharpWPF_GUIBasic.csproj.CoreCompileInputs.cache
+C:\GITCSharp\CSharpWPF_GUIBasic\CSharpWPF_GUIBasic\obj\Debug\CSharpWPF_GUIBasic.exe
+C:\GITCSharp\CSharpWPF_GUIBasic\CSharpWPF_GUIBasic\obj\Debug\CSharpWPF_GUIBasic.pdb
